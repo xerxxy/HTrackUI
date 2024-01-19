@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HTrack</string>
+
+    <!-- LogInScreen COMPONENTS -->
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="log_in">Log in</string>
+    <string name="register_text">Don\'t have an account? Sign up now</string>
+
+</resources>
